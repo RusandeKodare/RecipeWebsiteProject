@@ -1,0 +1,1 @@
+This project will consist of me coding what I've learned in HTLM. I will be following a tutorial that will have me creating a recipe website.
